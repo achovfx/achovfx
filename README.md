@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Erfan Gandomrizi</h1>
-<h3 align="center">A FullStack Developer from Iran🇮🇷</h3>
+![Header](./banner.png)
+<h3 align="center">from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achovfx&label=Profile%20views&color=0e75b6&style=flat" alt="achovfx" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Vue, Nodejs**
+- 💬 Main Framewroks **React, Vue**
 
 - 📫 How to reach me **erfang.webdeveloper@gmail.com**
 
-- ⚡ Fun fact **I`m**
+- ⚡ a Fact **I`m so ontime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
