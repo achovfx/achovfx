@@ -1,11 +1,13 @@
 <div align="center">
   <img src="./Logo.png" width="250px" />
   <h1>ACHOVFX</h1>
-  <p>FullStack-Dev</p>
+  <h3>FullStack-Devs⚙️</h3>
 </div>
-<h3>My Expertise</h3>
-<h4>Front-End</h4>
+<h3>My Expertise 💪</h3>
+<h4>Front-End 🎨</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,jquery,tailwind,bootstrap,github,git,ps"/>
+<h4>Back-End 🧑‍💻</h4>
+<img src="https://skillicons.dev/icons?i=php,nodejs"/>
 <!--
 **achovfx/achovfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
