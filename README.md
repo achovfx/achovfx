@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Logo.png" width="250px" />
   <h1>ACHOVFX</h1>
-  <h3>FullStack-Devs⚙️</h3>
+  <h3>FullStack-Dev⚙️</h3>
 </div>
 <h3>My Expertise 💪</h3>
 <h4>Front-End 🎨</h4>
