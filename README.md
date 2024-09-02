@@ -1,9 +1,6 @@
 ![Header](./banner.png)
-<div align="center">
-<!--   <img src="./Logo.png" width="250px" /> -->
-  <h1>ACHOVFX</h1>
-  <h3>FullStack-Dev⚙️</h3>
-</div>
+
+
 <h2>My Expertise 💪</h2>
 <h4>+ Front-End 🎨</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,jquery,tailwind,bootstrap,github,git,ps"/>
