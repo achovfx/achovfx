@@ -1,5 +1,7 @@
-<img src="./Logo.png" />
-<h1 align="center">ACHOVFX</h1>
+<div align="center">
+  <img src="./Logo.png" width="250px" />
+  <h1>ACHOVFX</h1>
+</div>
 <!--
 **achovfx/achovfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
