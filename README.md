@@ -1,5 +1,6 @@
+![Header](./banner.png)
 <div align="center">
-  <img src="./Logo.png" width="250px" />
+<!--   <img src="./Logo.png" width="250px" /> -->
   <h1>ACHOVFX</h1>
   <h3>FullStack-Dev⚙️</h3>
 </div>
