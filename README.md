@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Logo.png" width="250px" />
   <h1>ACHOVFX</h1>
-  <h2>FullStack-Dev</h2>
+  <p>FullStack-Dev</p>
 </div>
 <h3>My Expertise</h3>
 <h4>Front-End</h4>
