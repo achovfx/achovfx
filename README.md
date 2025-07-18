@@ -19,7 +19,7 @@
 
 <h2>My Expertise 💪</h2>
 <h4>+ Front-End 🎨</h4>
-<img src="[https://skillicons.dev/icons?i=html,css,js,react,vue,jquery,tailwind,bootstrap,github,git,ps](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,mongodb,postgres,prisma,tailwind,bootstrap,github,git,ps)"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,mongodb,postgres,prisma,tailwind,bootstrap,github,git,ps"/>
 <h4>+ Back-End 🧑‍💻</h4>
 <img src="https://skillicons.dev/icons?i=php,nodejs"/>
 
