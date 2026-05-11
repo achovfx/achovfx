@@ -21,7 +21,7 @@
 <h4>+ Front-End 🎨</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,mongodb,postgres,prisma,tailwind,bootstrap,github,git,ps"/>
 <h4>+ Back-End 🧑‍💻</h4>
-<img src="https://skillicons.dev/icons?i=php,nodejs"/>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs"/>
 
 <h2>☁️ My Socials Media</h2>
 <a href="https://instagram.com/acho.vfx" rel="nofollow">
