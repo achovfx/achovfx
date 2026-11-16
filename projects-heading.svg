@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="125" viewBox="0 0 1100 125" role="img">
+<title>Selected projects</title><defs><linearGradient id="b" x2="1"><stop stop-color="#10271a"/><stop offset="1" stop-color="#09150e"/></linearGradient><linearGradient id="l"><stop stop-color="#72ffaa" stop-opacity="0"/><stop offset=".5" stop-color="#72ffaa"/><stop offset="1" stop-color="#72ffaa" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="123" rx="18" fill="url(#b)" stroke="#347c4d"/>
+<path d="M25 99H1075" stroke="url(#l)"/>
+<text x="42" y="55" fill="#eafff1" font-family="Segoe UI,Arial" font-size="29" font-weight="700">SELECTED WORK</text>
+<text x="43" y="82" fill="#8fb99c" font-family="Segoe UI,Arial" font-size="13" letter-spacing="2">DESIGN  ·  ENGINEERING  ·  EXECUTION</text>
+<text x="1055" y="68" fill="#72ffaa" font-family="monospace" font-size="18" text-anchor="end">[ 04 ]</text></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img">
+<title>ACHOVFX developer terminal</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12291b"/><stop offset="1" stop-color="#08140d"/></linearGradient><linearGradient id="edge"><stop stop-color="#72ffaa" stop-opacity=".7"/><stop offset="1" stop-color="#72ffaa" stop-opacity=".08"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="328" rx="20" fill="url(#bg)" stroke="#347c4d"/>
+<path d="M1 58H1099" stroke="#347c4d"/>
+<circle cx="30" cy="29" r="6" fill="#ff6b6b"/><circle cx="52" cy="29" r="6" fill="#ffd166"/><circle cx="74" cy="29" r="6" fill="#72ffaa"/>
+<text x="550" y="34" fill="#92bda0" font-family="monospace" font-size="13" text-anchor="middle">achovfx — developer shell</text>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="42" y="99" fill="#72ffaa">$ whoami</text><text x="190" y="99" fill="#e3f5e9">Full-Stack Developer</text>
+<text x="42" y="145" fill="#72ffaa">$ focus --current</text><text x="245" y="145" fill="#e3f5e9">React.js / Next.js / Web Architecture</text>
+<text x="42" y="191" fill="#72ffaa">$ learning --now</text><text x="245" y="191" fill="#e3f5e9">React Native / Cybersecurity</text>
+<text x="42" y="237" fill="#72ffaa">$ philosophy</text><text x="190" y="237" fill="#e3f5e9">Build with purpose. Optimize the details.</text>
+<text x="42" y="283" fill="#72ffaa">$ status</text><circle cx="178" cy="277" r="5" fill="#72ffaa"/><text x="195" y="283" fill="#a8ffc2">Open to interesting projects</text>
+</g></svg>

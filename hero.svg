@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">ACHOVFX — Full-Stack Developer</title><desc id="desc">Dark emerald glass-inspired banner with neon green lighting.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07130c"/><stop offset=".55" stop-color="#0b2114"/><stop offset="1" stop-color="#102d1c"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#35ff8b" stop-opacity=".34"/><stop offset="1" stop-color="#35ff8b" stop-opacity="0"/></radialGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9ffea" stop-opacity=".14"/><stop offset="1" stop-color="#51ff9a" stop-opacity=".025"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#39ff91" stop-opacity="0"/><stop offset=".5" stop-color="#39ff91" stop-opacity=".8"/><stop offset="1" stop-color="#39ff91" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="32"/></filter>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<circle cx="930" cy="95" r="220" fill="url(#glow)" filter="url(#blur)"/>
+<circle cx="180" cy="330" r="170" fill="url(#glow)" filter="url(#blur)" opacity=".5"/>
+<g opacity=".15" stroke="#7affad"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200"/><path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/></g>
+<rect x="55" y="42" width="1090" height="276" rx="22" fill="url(#glass)" stroke="#7affad" stroke-opacity=".32"/>
+<rect x="56" y="43" width="1088" height="1.5" rx="1" fill="url(#line)"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+ <text x="600" y="164" font-size="76" font-weight="800" letter-spacing="7" fill="#eafff1">ACHOVFX</text>
+ <text x="600" y="211" font-size="19" font-weight="600" letter-spacing="5" fill="#75ffa9">FULL-STACK DEVELOPER</text>
+ <text x="600" y="251" font-size="13" letter-spacing="3" fill="#b4d8c1">REACT  /  NEXT.JS  /  DIGITAL EXPERIENCES</text>
+</g>
+<g fill="#72ffa7"><circle cx="92" cy="75" r="4"/><circle cx="1108" cy="75" r="4"/><circle cx="92" cy="285" r="4"/><circle cx="1108" cy="285" r="4"/></g>
+<path d="M80 305H1120" stroke="url(#line)" stroke-width="1"/>
+</svg>
